@@ -92,3 +92,21 @@ AR works by overlaying digital objects or information onto the real world, enhan
   
 - **Technology Advancements**:
   - Technologies like Microsoft's HoloLens, Geo Glass, and other AR/VR hardware are paving the way for a future where digital content is seamlessly integrated into the real world.
+ 
+### Virtual Reality (VR)
+- VR immerses you in a digital world, creating a strong sense of presence, like playing a game (e.g., GTA 5). It makes you feel like you're actually inside the game.
+- The technology has multiple applications in gaming (e.g., Beat Saber, Half-Life: Alyx), healthcare (e.g., anatomy apps), and military training.
+- VR headsets, such as Oculus, have become more affordable and are evolving in quality.
+- The cost of VR headsets has decreased significantly (e.g., Oculus Quest 2 now costs half of what it did previously), making VR more accessible.
+- VR can be applied in various sectors like healthcare, military training, education, and gaming.
+
+### Mixed Reality (MR)
+- MR blends the real world with virtual elements, combining the features of both VR and AR, allowing for more interaction with both.
+- It can be used for tasks like surgery guidance in healthcare, military training, and manufacturing.
+- Microsoft has worked on MR headsets for military training, and startups like Ajna Lens are using MR to train military personnel in India.
+- MR provides immersive experiences that could revolutionize various industries by integrating real and virtual elements.
+
+### Market Growth
+- The extended reality (XR) market, which includes VR, AR, and MR, is growing rapidly and is projected to reach $393 billion by 2025, growing at a compound annual growth rate (CAGR) of 69.4%.
+  
+
